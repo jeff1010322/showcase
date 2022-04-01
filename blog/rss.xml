@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+    <channel>
+        <title>Jeff Simpson Blog</title>
+        <link>https://jeff1010322.github.com/showcase/blog</link>
+        <description>Jeff Simpson Blog</description>
+        <lastBuildDate>Thu, 31 Mar 2022 00:00:00 GMT</lastBuildDate>
+        <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
+        <generator>https://github.com/jpmonette/feed</generator>
+        <language>en</language>
+        <item>
+            <title><![CDATA[Docusaurus Setup]]></title>
+            <link>https://jeff1010322.github.com/showcase/blog/docusaurus-setup</link>
+            <guid>docusaurus-setup</guid>
+            <pubDate>Thu, 31 Mar 2022 00:00:00 GMT</pubDate>
+            <description><![CDATA[I am creating this personal site to test out Docusaurus v2]]></description>
+            <content:encoded><![CDATA[<p>I am creating this personal site to test out <a href="https://v2.docusaurus.io/" target="_blank" rel="noopener noreferrer">Docusaurus v2</a>
+and potentially serve as a place for me showcase some of the personal projects I am working on.</p><p>So far I have simply followed the tutorial to scaffold this website, cleaned it up and added some personal info, and updated the theme a bit.</p><p>Next step is to test out deployment with <a href="https://docusaurus.io/docs/deployment#deploying-to-github-pages" target="_blank" rel="noopener noreferrer">Github Pages</a> followed
+by updating to add more content and project examples.</p>]]></content:encoded>
+            <category>first</category>
+            <category>docusaurus</category>
+        </item>
+    </channel>
+</rss>

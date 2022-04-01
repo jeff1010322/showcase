@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkshowcase=self.webpackChunkshowcase||[]).push([[717],{8291:function(s){s.exports=JSON.parse('{"first":{"allTagsPath":"/showcase/blog/tags","name":"first","count":1,"permalink":"/showcase/blog/tags/first"},"docusaurus":{"allTagsPath":"/showcase/blog/tags","name":"docusaurus","count":1,"permalink":"/showcase/blog/tags/docusaurus"}}')}}]);

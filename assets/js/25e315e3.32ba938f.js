@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkshowcase=self.webpackChunkshowcase||[]).push([[738],{1098:function(s){s.exports=JSON.parse('{"allTagsPath":"/showcase/blog/tags","name":"first","count":1,"permalink":"/showcase/blog/tags/first"}')}}]);

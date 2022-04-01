@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+    <id>https://jeff1010322.github.com/showcase/blog</id>
+    <title>Jeff Simpson Blog</title>
+    <updated>2022-03-31T00:00:00.000Z</updated>
+    <generator>https://github.com/jpmonette/feed</generator>
+    <link rel="alternate" href="https://jeff1010322.github.com/showcase/blog"/>
+    <subtitle>Jeff Simpson Blog</subtitle>
+    <icon>https://jeff1010322.github.com/showcase/img/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[Docusaurus Setup]]></title>
+        <id>docusaurus-setup</id>
+        <link href="https://jeff1010322.github.com/showcase/blog/docusaurus-setup"/>
+        <updated>2022-03-31T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[I am creating this personal site to test out Docusaurus v2]]></summary>
+        <content type="html"><![CDATA[<p>I am creating this personal site to test out <a href="https://v2.docusaurus.io/" target="_blank" rel="noopener noreferrer">Docusaurus v2</a>
+and potentially serve as a place for me showcase some of the personal projects I am working on.</p><p>So far I have simply followed the tutorial to scaffold this website, cleaned it up and added some personal info, and updated the theme a bit.</p><p>Next step is to test out deployment with <a href="https://docusaurus.io/docs/deployment#deploying-to-github-pages" target="_blank" rel="noopener noreferrer">Github Pages</a> followed
+by updating to add more content and project examples.</p>]]></content>
+        <author>
+            <name>Jeff Simpson</name>
+            <uri>https://github.com/jeff1010322</uri>
+        </author>
+        <category label="first" term="first"/>
+        <category label="docusaurus" term="docusaurus"/>
+    </entry>
+</feed>

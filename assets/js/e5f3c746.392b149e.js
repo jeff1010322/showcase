@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkshowcase=self.webpackChunkshowcase||[]).push([[578],{2581:function(e){e.exports=JSON.parse('{"permalink":"/showcase/blog","page":1,"postsPerPage":10,"totalPages":1,"totalCount":1,"blogDescription":"Blog","blogTitle":"Blog"}')}}]);
